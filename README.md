@@ -13,4 +13,4 @@ Victor Mascarell Ascó
 * **vicmascarell_PRA1-TYC_DATOS.pdf**. Documento que contiene las respuestas a las preguntas propuestas con la imagen esquemática del proyecto, la explicación del este y la bibliografía utilizada. 
 
 
-#####DOI: 10.5281/zenodo.4263627
+##### DOI: 10.5281/zenodo.4263627
