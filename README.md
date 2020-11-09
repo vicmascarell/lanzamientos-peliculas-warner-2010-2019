@@ -1,6 +1,6 @@
 # PRA 1 WEB SCRAPING: Películas Warner Bros 2010-2019
 
-El proyecto **peliculas Warner 2010-2019**, se ha creado como práctica 1 de la asignatura Tipología y ciclo de vida de los datos del Master en Ciencia de datos de la Universitat Oberta de Catalunya (UOC). En el, se utilizan técnicas de web scraping mediante Python para sacar la información de la Wikipedia de los estrenos de Warner Bross durante los años 2010-2019.
+El proyecto **peliculas Warner 2010-2019**, se ha creado como práctica 1 de la asignatura Tipología y ciclo de vida de los datos del Master en Ciencia de datos de la Universitat Oberta de Catalunya (UOC). En este proyecto se utilizan técnicas de web scraping mediante Python para sacar la información de los estrenos de Warner Bross durante los años 2010-2019 a partir de los datos de la Wikipedia.
 
 ### Autor
 
