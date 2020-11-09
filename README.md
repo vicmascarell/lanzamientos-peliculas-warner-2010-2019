@@ -8,7 +8,7 @@ Victor Mascarell Ascó
 
 ### Ficheros 
 
-* **warner_movies_10-19_Scraper.py**. Scrip de Python que lleva a cabo el proceso de scraping y devuelve un fichero en .csv (peliculas_warner_2010-2019.csv) con la lista de estrenos de la Warner Bros durante los años 2010-2019, así como sus características.
+* **peliculas_warner_10-19_scraper.py**. Scrip de Python que lleva a cabo el proceso de scraping y devuelve un fichero en .csv (peliculas_warner_2010-2019.csv) con la lista de estrenos de la Warner Bros durante los años 2010-2019, así como sus características.
 * **peliculas_warner_2010-2019.csv**. Dataset en formato .csv y con ; como separador. Alberga los 301 estrenos de películas de la Warner Bros durante los años 2010-2019. Cuenta con 13 campos: Title, Box office dolars, Budget dolars, Country, Directed by, Distributed by, Music by, Production company, Release dates, Release day, Starring, Written by y Time min.
 * **vicmascarell_PRA1-TYC_DATOS.pdf**. Documento que contiene las respuestas a las preguntas con la imágen esquemática del proyecto y la explicación del este. 
 
